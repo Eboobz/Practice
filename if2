@@ -1,0 +1,6 @@
+#include (stdio.h)
+//if and else
+void main()
+{
+int a, char b, c, d;
+printf("Enter a digit or character);
